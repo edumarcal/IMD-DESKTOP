@@ -1,0 +1,5 @@
+Uma empresa decide criar um sistema para cadastrar informações sobre os seus empregados. Sabe-se que a empresa possui vários setores e, consequentemente, emprega funcionários de diferentes profissões. Os funcionários são agrupados em diferentes categorias: gerente, funcionário temporário, funcionário contratado, estagiário.
+
+Desenvolva um programa que contabilize a folha salarial dos funcionários. Um gerente ganha 5 salários mínimos, um funcionário temporário ganha R$ 60,00/hora, um funcionário contratado ganha 2 salários mínimos e um estagiária recebe uma bolsa no valor de R$ 700,00 reais. Todo funcionário deve conter um atributo nome e idade.
+
+Modele o problema levando em consideração a reutilização de código-fonte.

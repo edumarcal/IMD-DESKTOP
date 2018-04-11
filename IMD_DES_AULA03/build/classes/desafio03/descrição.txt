@@ -1,0 +1,7 @@
+Desenvolva uma aplicação Swing que possua um campo para receber o nome de uma pessoa. Em seguida exiba as seguintes informações a respeito do nome:
+
+Quantidade de caracteres;
+Quantidade de caracteres que representam consoantes;
+Quantidade de caracteres que representam vogais;
+Mostre as vogais que estão no nome;
+Mostre as consoantes.
